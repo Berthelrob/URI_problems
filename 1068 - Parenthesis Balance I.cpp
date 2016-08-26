@@ -21,9 +21,9 @@ int main(void){
 		}
 
 		if(p == q)
-			cout << "is correct" << endl;
+			cout << "correct" << endl;
 		else
-			cout << "is incorrect" << endl;
+			cout << "incorrect" << endl;
 	}
 	return 0;
 }
